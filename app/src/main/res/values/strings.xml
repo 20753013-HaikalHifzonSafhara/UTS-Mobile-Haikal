@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Daftar Kampus</string>
+
+
+    <string name="this_activity">Ini adalah menu activity</string>
+    <string name="this_fragment">Ini adalah menu fragment</string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+
+    <string name="search_hint">Masukkan kata</string>
+    <string name="kampus_name">Nama Kampus</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Universitas Unila</item>
+        <item>Universitas Bandar Lampung</item>
+        <item>Universitas Malahayati</item>
+        <item>Universitas Islam Negeri</item>
+        <item>Institut Teknologi Sumatra</item>
+        <item>Politeknik Negeri Lampung</item>
+
+    </string-array>
+    <string-array name="data_description">
+        <item>Universitas Lampung adalah universitas negeri pertama dan
+    tertua di Provinsi Lampung, Indonesia.Hari jadi Unila
+    ditetapkan pada tanggal 23 September 1965,berdasarkan pada
+    keluarnya SuratKeputusan Menteri PTIP yang menetapkan
+    berdirinya Unila. </item>
+
+        <item>Universitas Bandar Lampung merupakan salah satu perguruan tinggi swasta terbesar
+            di Provinsi Lampung yang terletak di Kota Bandar Lampung, Provinsi Lampung.
+            Universitas ini berdiri pada 17 Januari 1984 dan dikelola oleh Yayasan Administrasi
+            Lampung</item>
+
+        <item>Universitas Malahayati adalah sebuah perguruan tinggi swasta di Indonesia. Universitas
+            ini didirikan di bawah Yayasan Alih Teknologi pada tanggal 27 Agustus 1993 dan disahkan
+            berdasarkan SK Menteri Pendidikan dan Kebudayaan RI No.02/D/0/1994 pada tanggal
+            28 Januari 1994.</item>
+
+        <item>Universitas Islam Negeri Raden Intan Lampung
+            adalah Perguruan Tinggi Islam Negeri yangberada
+            di kelurahan Sukarame, kecamatan Sukarame, kota
+            Bandar Lampung provinsi Lampung.</item>
+
+        <item>Universitas Islam Negeri Raden Intan Lampung
+            adalah Perguruan Tinggi Islam Negeri yangberada
+            di kelurahan Sukarame, kecamatan Sukarame, kota
+            Bandar Lampung provinsi Lampung.</item>
+
+        <item>Institut Teknologi Sumatera, disingkat ITERA,
+            adalah sebuah perguruan tinggi negeri yang terdapat
+            di Provinsi Lampung di Pulau Sumatra. Lokasinya
+            berada di antara wilayah Kabupaten Lampung Selatan
+            dengan Kota Bandar Lampung.</item>
+
+        <item>Perguruan Tinggi Negeri yang menyelenggarakan
+            pendidikan vokasi di Provinsi Lampung untuk menciptakan
+            lulusan ahli madya dan sarjana terapan berjiwa disiplin,
+            mandiri dan profesional di Indonesia.</item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/unila</item>
+        <item>@drawable/ubl</item>
+        <item>@drawable/malahayati</item>
+        <item>@drawable/uin</item>
+        <item>@drawable/itera</item>
+        <item>@drawable/polinela</item>
+
+    </integer-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shoppingbag">ini adalah fragment shopping bag</string>
+    <string name="hello_ini_shopping_bag">shoppingbag</string>
+    <string name="announcement">aplikasi daftar kampus adalah aplikasi yang menampilkan rekomendasi kampus/universitas negeri yang ada di lampung</string>
+
+
+</resources>
